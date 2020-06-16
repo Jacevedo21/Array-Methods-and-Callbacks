@@ -56,7 +56,7 @@ Parameters:
  * callback function getYears
  */
 
-function getWinnersByYear(/* code here */) {
+function getWinnersByYear(winners, years) {
 let winners = callback1(getFinals);
 let years = callback2(getFinals);
 
